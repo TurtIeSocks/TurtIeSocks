@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can find most of my contributions hosted on [@WatWowMap](https://github.com/WatWowMap)
+
 <!--
 **TurtIeSocks/TurtIeSocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![TurtIeSocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurtIeSocks&show_icons=true&theme=radical)
+<br />
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurtIeSocks&layout=compact&theme=radical)](https://github.com/TurtIeSocks/github-readme-stats)
