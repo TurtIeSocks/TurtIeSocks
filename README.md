@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 ![TurtIeSocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurtIeSocks&show_icons=true&theme=radical)
 <br />
 <br />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TurtIeSocks)](https://git.io/streak-stats&theme=shades-of-purple)
+<br />
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurtIeSocks&layout=compact&theme=radical)](https://github.com/TurtIeSocks/github-readme-stats)
