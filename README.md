@@ -2,21 +2,6 @@
 
 You can find most of my contributions hosted on [@WatWowMap](https://github.com/WatWowMap)
 
-<!--
-**TurtIeSocks/TurtIeSocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![TurtIeSocks's GitHub stats](https://github-readme-stats.vercel.app/api?username=TurtIeSocks&show_icons=true&theme=radical)
 <br />
 <br />
@@ -24,3 +9,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurtIeSocks&layout=compact&theme=radical)](https://github.com/TurtIeSocks/github-readme-stats)
+<br />
+<br />
+![My Skills](https://skillicons.dev/icons?i=actix,apollo,cpp,css,discord,docker,express,github,githubactions,go,graphql,html,js,materialui,mysql,nextjs,nodejs,postgres,prisma,py,react,rust,sentry,tailwind,ts,vercel,vite&perline=9)
