@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can a lot of my contributions hosted on...
+You can find a lot of my contributions hosted on...
 - [@WatWowMap](https://github.com/WatWowMap)
 - [@Unown#](https://github.com/UnownHash)
 
