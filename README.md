@@ -114,44 +114,31 @@ Async browser automation in Rust via the Chrome DevTools Protocol (tokio).
 ## 🌱 Currently
 Deepening **Rust services** &amp; **AI-agent tooling**. A few recent builds:
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-#### [ridiculous](https://github.com/TurtIeSocks/ridiculous) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+#### [ridiculous](https://github.com/TurtIeSocks/ridiculous) <img src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 
 Ridiculously typed shadcn components — template-literal validators &amp; a 6-mode oklch picker. [Demo ↗](https://turtiesocks.github.io/ridiculous/)
 
-</td>
-    <td valign="top" width="50%">
+---
 
-#### [agent-skills](https://github.com/TurtIeSocks/agent-skills) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+#### [agent-skills](https://github.com/TurtIeSocks/agent-skills) <img src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 Custom skills &amp; tooling for AI coding agents.
 
-</td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
+---
 
-#### [pokemon-tcg-viewer](https://github.com/TurtIeSocks/pokemon-tcg-viewer) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+#### [pokemon-tcg-viewer](https://github.com/TurtIeSocks/pokemon-tcg-viewer) <img src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 
 A fast browser for exploring Pokémon TCG cards.
 
-</td>
-    <td valign="top" width="50%">
+---
 
-#### [pogo-masterfile](https://github.com/Hazels-Lab/pogo-masterfile) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+#### [pogo-masterfile](https://github.com/Hazels-Lab/pogo-masterfile) <img src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 
 Polyglot Pokémon GO masterfile bindings (TS/Rust/Go), auto-generated from upstream.
-
-</td>
-  </tr>
-</table>
 
 ## 🎮 Beyond code
 **Bevy** game-dev · **PC watercooling** · real-time **Pokémon GO** data nerdery
@@ -159,22 +146,19 @@ Polyglot Pokémon GO masterfile bindings (TS/Rust/Go), auto-generated from upstr
 <!-- ============ COMMUNITY & ORGS ============ -->
 ## 🤝 Community &amp; Orgs
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/WatWowMap"><img src="https://github.com/WatWowMap.png" width="64" alt="WatWowMap" /><br /><b>WatWowMap</b></a><br />
-      Real-time mapping
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/UnownHash"><img src="https://github.com/UnownHash.png" width="64" alt="UnownHash" /><br /><b>UnownHash</b></a><br />
-      Go data backends
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Hazels-Lab"><img src="https://github.com/Hazels-Lab.png" width="64" alt="Hazel's Lab" /><br /><b>Hazel's Lab</b></a><br />
-      Polyglot tooling
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/WatWowMap"><img src="https://github.com/WatWowMap.png" width="80" alt="WatWowMap" /></a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://github.com/UnownHash"><img src="https://github.com/UnownHash.png" width="80" alt="UnownHash" /></a>
+&emsp;&emsp;&emsp;&emsp;
+<a href="https://github.com/Hazels-Lab"><img src="https://github.com/Hazels-Lab.png" width="80" alt="Hazel's Lab" /></a>
+
+<br />
+
+**[WatWowMap](https://github.com/WatWowMap)** — Real-time mapping &nbsp;·&nbsp; **[UnownHash](https://github.com/UnownHash)** — Go data backends &nbsp;·&nbsp; **[Hazel's Lab](https://github.com/Hazels-Lab)** — Polyglot tooling
+
+</div>
 
 <!-- ============ STATS ============ -->
 ## 📊 GitHub Stats
