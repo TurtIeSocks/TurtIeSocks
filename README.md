@@ -57,7 +57,7 @@ Software Engineer in Boston building **real-time geospatial platforms**, **devel
     <td valign="top" width="50%">
 
 #### [Koji](https://github.com/TurtIeSocks/Koji)
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![Stars](https://img.shields.io/github/stars/TurtIeSocks/Koji?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27)
+![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) <img align="right" src="https://img.shields.io/github/stars/TurtIeSocks/Koji?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27" alt="stars" />
 
 Geofence manager &amp; TSP route optimizer — full-stack app. [Live ↗](https://koji.vercel.app)
 
@@ -65,7 +65,7 @@ Geofence manager &amp; TSP route optimizer — full-stack app. [Live ↗](https:
     <td valign="top" width="50%">
 
 #### [ReactMap](https://github.com/WatWowMap/ReactMap)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=f7df1e) ![Stars](https://img.shields.io/github/stars/WatWowMap/ReactMap?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=f7df1e) <img align="right" src="https://img.shields.io/github/stars/WatWowMap/ReactMap?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27" alt="stars" />
 
 Real-time map frontend used by large OSS communities — core contributor.
 
@@ -75,7 +75,7 @@ Real-time map frontend used by large OSS communities — core contributor.
     <td valign="top" width="50%">
 
 #### [tsp-mt](https://github.com/TurtIeSocks/tsp-mt)
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) ![Stars](https://img.shields.io/github/stars/TurtIeSocks/tsp-mt?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27)
+![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) <img align="right" src="https://img.shields.io/github/stars/TurtIeSocks/tsp-mt?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27" alt="stars" />
 
 Multithreaded solver for the Traveling-Salesperson Problem.
 
@@ -83,7 +83,8 @@ Multithreaded solver for the Traveling-Salesperson Problem.
     <td valign="top" width="50%">
 
 #### [react-leaflet-geoman](https://github.com/TurtIeSocks/react-leaflet-geoman)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/github/stars/TurtIeSocks/react-leaflet-geoman?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) <img align="right" src="https://img.shields.io/github/stars/TurtIeSocks/react-leaflet-geoman?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27" alt="stars" />
+
 
 Published React wrapper for the leaflet-geoman drawing plugin.
 
@@ -93,7 +94,7 @@ Published React wrapper for the leaflet-geoman drawing plugin.
     <td valign="top" width="50%">
 
 #### [uicons.js](https://github.com/TurtIeSocks/uicons.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/github/stars/TurtIeSocks/uicons.js?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) <img align="right" src="https://img.shields.io/github/stars/TurtIeSocks/uicons.js?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27" alt="stars" />
 
 Convenient JS class for the UICONS icon standard.
 
@@ -101,7 +102,7 @@ Convenient JS class for the UICONS icon standard.
     <td valign="top" width="50%">
 
 #### [zendriver-rs](https://github.com/TurtIeSocks/zendriver-rs)
-![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=f7df1e) ![Stars](https://img.shields.io/github/stars/TurtIeSocks/zendriver-rs?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27)
+![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-1a1b27?style=flat&logo=javascript&logoColor=f7df1e) <img align="right" src="https://img.shields.io/github/stars/TurtIeSocks/zendriver-rs?style=flat&label=&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2Y3Yzk0OCIgZD0iTTEyIC41ODdsMy42NjggNy40MzEgOC4yIDEuMTkyLTUuOTM0IDUuNzg3IDEuNDAxIDguMTY4TDEyIDE4Ljg5NmwtNy4zMzUgMy44NjkgMS40MDEtOC4xNjhMLjEzMiA5LjIxbDguMi0xLjE5MnoiLz48L3N2Zz4%3D&color=7aa2f7&labelColor=1a1b27" alt="stars" />
 
 Async browser automation in Rust via the Chrome DevTools Protocol (tokio).
 
@@ -111,7 +112,46 @@ Async browser automation in Rust via the Chrome DevTools Protocol (tokio).
 
 <!-- ============ CURRENTLY / BEYOND ============ -->
 ## 🌱 Currently
-Deepening **Rust services** &amp; **AI-agent tooling** · **Hazel's Research Lab** · **Pokemon TCG Viewer** · **Shadcn Based Admin Panel**
+Deepening **Rust services** &amp; **AI-agent tooling**. A few recent builds:
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+#### [ridiculous](https://github.com/TurtIeSocks/ridiculous) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+
+Ridiculously typed shadcn components — template-literal validators &amp; a 6-mode oklch picker. [Demo ↗](https://turtiesocks.github.io/ridiculous/)
+
+</td>
+    <td valign="top" width="50%">
+
+#### [agent-skills](https://github.com/TurtIeSocks/agent-skills) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+Custom skills &amp; tooling for AI coding agents.
+
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+
+#### [pokemon-tcg-viewer](https://github.com/TurtIeSocks/pokemon-tcg-viewer) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+
+A fast browser for exploring Pokémon TCG cards.
+
+</td>
+    <td valign="top" width="50%">
+
+#### [pogo-masterfile](https://github.com/Hazels-Lab/pogo-masterfile) <img align="right" src="https://img.shields.io/badge/new-2ea043?style=flat" alt="new" />
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-b7410e?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
+
+Polyglot Pokémon GO masterfile bindings (TS/Rust/Go), auto-generated from upstream.
+
+</td>
+  </tr>
+</table>
 
 ## 🎮 Beyond code
 **Bevy** game-dev · **PC watercooling** · real-time **Pokémon GO** data nerdery
@@ -141,8 +181,8 @@ Deepening **Rust services** &amp; **AI-agent tooling** · **Hazel's Research Lab
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TurtIeSocks&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurtIeSocks&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TurtIeSocks&theme=tokyonight" alt="GitHub stats overview" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TurtIeSocks&theme=tokyonight" alt="Most-used languages" />
 
 <br />
 
