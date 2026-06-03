@@ -5,7 +5,7 @@
 
 <!-- ============ TYPING TAGLINE ============ -->
 <div align="center">
-  <a href="https://www.nemap.net">
+  <a href="https://www.turtlesocks.dev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Engineer+%E2%80%94+maps%2C+tooling%2C+systems;TypeScript+%C2%B7+Rust+%C2%B7+Go;Real-time+geospatial+%40+scale;...and+the+occasional+game-engine+plugin" alt="Software Engineer — maps, tooling, systems · TypeScript · Rust · Go" />
   </a>
 </div>
@@ -13,8 +13,8 @@
 <!-- ============ CONTACT STRIP ============ -->
 <div align="center">
   <img src="https://img.shields.io/badge/Boston,%20MA-1a1b27?style=flat&logo=googlemaps&logoColor=7aa2f7" alt="Boston, MA" />
-  <a href="https://www.nemap.net"><img src="https://img.shields.io/badge/nemap.net-1a1b27?style=flat&logo=googlechrome&logoColor=7aa2f7" alt="nemap.net" /></a>
-  <a href="mailto:contact@nemap.net"><img src="https://img.shields.io/badge/contact@nemap.net-1a1b27?style=flat&logo=gmail&logoColor=bb9af7" alt="Email" /></a>
+  <a href="https://www.turtlesocks.dev"><img src="https://img.shields.io/badge/turtlesocks.dev-1a1b27?style=flat&logo=googlechrome&logoColor=7aa2f7" alt="turtlesocks.dev" /></a>
+  <a href="mailto:contact@turtlesocks.dev"><img src="https://img.shields.io/badge/contact@turtlesocks.dev-1a1b27?style=flat&logo=gmail&logoColor=bb9af7" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=TurtIeSocks&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 </div>
 
